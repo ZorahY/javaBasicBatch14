@@ -1,0 +1,19 @@
+package com.syntax.class8;
+
+public class Multiplication {
+
+	public static void main(String[] args) {
+		// Multiplication
+		for (int a=1; a<=9;a++) {
+			
+			for (int b=1;b<=9;b++)
+			{
+				System.out.println(a+"x"+b+"=" +a*b);
+			}
+			
+			
+		}
+
+	}
+
+}
